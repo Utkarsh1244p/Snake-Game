@@ -32,7 +32,3 @@ To run the Snake Game locally, follow these steps:
 
    ```bash
    python main.py
-
-
-
-   
